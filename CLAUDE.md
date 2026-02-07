@@ -98,7 +98,23 @@ exploits/       # Working exploit scripts
 writeups/       # Solution documentation
 tools/          # Python utility modules
 templates/      # Exploit and writeup templates
+cheatsheets/    # Quick reference command guides
 ```
+
+## Cheatsheets
+
+Quick reference guides with common commands for each category:
+
+| Cheatsheet | Contents |
+|------------|----------|
+| `cheatsheets/forensics.md` | Image analysis, steganography, PCAP, memory dumps |
+| `cheatsheets/pwn.md` | Buffer overflow, ROP, format strings, pwntools |
+| `cheatsheets/crypto.md` | Encoding, RSA attacks, classical ciphers |
+| `cheatsheets/web.md` | SQLi, XSS, SSTI, LFI, command injection |
+| `cheatsheets/reversing.md` | GDB, radare2, Ghidra, patching |
+| `cheatsheets/misc.md` | OSINT, jail escapes, esoteric languages |
+
+**Usage**: Open the relevant cheatsheet for quick "first things to run" commands.
 
 ## Flag Formats
 
