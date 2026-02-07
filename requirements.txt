@@ -1,0 +1,24 @@
+# CTF Solver Python Dependencies
+
+# Binary Exploitation
+pwntools>=4.11.0
+
+# HTTP/Web
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Cryptography
+pycryptodome>=3.19.0
+gmpy2>=2.1.0
+
+# SMT Solver
+z3-solver>=4.12.0
+
+# Image Processing
+pillow>=10.0.0
+
+# File Type Detection
+python-magic>=0.4.27
+
+# Utilities
+numpy>=1.24.0

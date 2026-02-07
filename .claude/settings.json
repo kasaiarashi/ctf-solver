@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python*)",
+      "Bash(pip*)",
+      "Bash(checksec*)",
+      "Bash(file*)",
+      "Bash(strings*)",
+      "Bash(objdump*)",
+      "Bash(readelf*)",
+      "Bash(nm*)",
+      "Bash(binwalk*)",
+      "Bash(exiftool*)",
+      "Bash(xxd*)",
+      "Bash(hexdump*)",
+      "Bash(base64*)",
+      "Bash(curl*)",
+      "Bash(nc*)",
+      "Bash(nmap*)",
+      "Bash(r2*)",
+      "Bash(radare2*)",
+      "Bash(ROPgadget*)",
+      "Bash(ropper*)",
+      "Bash(one_gadget*)",
+      "Bash(steghide*)",
+      "Bash(zsteg*)",
+      "Bash(foremost*)",
+      "Bash(volatility*)",
+      "Bash(tshark*)",
+      "Bash(openssl*)",
+      "Bash(hashcat*)",
+      "Bash(john*)",
+      "Bash(sqlmap*)",
+      "Bash(gobuster*)",
+      "Bash(dirb*)",
+      "Bash(nikto*)",
+      "Bash(wfuzz*)",
+      "Bash(gdb*)",
+      "Bash(ltrace*)",
+      "Bash(strace*)"
+    ]
+  }
+}
